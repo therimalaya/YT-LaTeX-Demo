@@ -4,26 +4,26 @@
 
 ## Project:
 
-### Create a simple document without any table, figure, equations.
+<details><summary>Create a simple document without any table, figure, equations.</summary></details>
 
-### Write a letter in LaTeX
+<details><summary>Write a letter in LaTeX</summary></details>
 
-### Create an article/ report with all items such as table, figure, equations, bibliography, cross-references
+<details><summary>Create an article/ report with all items such as table, figure, equations, bibliography, cross-references</summary></details>
 
-### Customize the previously created document with custom header and footer, custom title page, table of contents, font and other customizations
+<details><summary>Customize the previously created document with custom header and footer, custom title page, table of contents, font and other customizations</summary></details>
 
-### Using environments such as theorems, examples and remarks. Also create a custom environment.
+<details><summary>Using environments such as theorems, examples and remarks. Also create a custom environment.</summary></details>
 
-### Creating simple figures in TikZ
+<details><summary>Creating simple figures in TikZ</summary></details>
 
-### Using loops in TikZ and using different TikZ library
+<details><summary>Using loops in TikZ and using different TikZ library</summary></details>
 
-### Creating styles in TikZ and using custom command
+<details><summary>Creating styles in TikZ and using custom command</summary></details>
 
-### Using different languages in LaTeX
+<details><summary>Using different languages in LaTeX</summary></details>
 
-### Making a simple presentation in LaTeX
+<details><summary>Making a simple presentation in LaTeX</summary></details>
 
-### Presentation with dynamics
+<details><summary>Presentation with dynamics</summary></details>
 
-### Creating a simple book document with all essentials such as front matters, headers, footers, two-sided page layout, references and index
+<details><summary>Creating a simple book document with all essentials such as front matters, headers, footers, two-sided page layout, references and index</summary></details>
